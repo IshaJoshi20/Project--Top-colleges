@@ -23,6 +23,7 @@ This dataset contains information about colleges across different states and dif
 # Data Description
 
 The dataset contains the following Columns:
+
 •	College_Name: Name of the college
 
 •	State: State of the college
